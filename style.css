@@ -1,0 +1,24 @@
+#maintitle {
+    text-align: center;
+    font-size: 72px;
+    color: royalblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recipelink {
+    color: red;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#lasagnalink {
+    font-weight: 900;
+}
+
+#chickenlink {
+    font-weight: 500;
+}
+
+#souplink {
+    font-weight: 100;
+}
