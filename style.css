@@ -5,8 +5,16 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.box {
+    display: flex;
+    justify-content: space-around;
+    border-style: groove;
+    border-color: gold;
+    background-color: lightgoldenrodyellow;
+}
+
 .recipelink {
-    color: red;
+    color: green;
     font-size: 32px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
